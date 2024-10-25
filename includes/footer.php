@@ -1,6 +1,6 @@
+    <!-- Footer content (optional) -->
     <footer>
-        <p>&copy; 2024 Enciclopédia Nexcore. Todos os direitos reservados.</p>
+      <p>© 2024 My Project</p>
     </footer>
-</body>
+  </body>
 </html>
-
