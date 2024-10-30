@@ -1,1 +1,93 @@
+/* Estilos gerais */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f9; /* Fundo claro para contraste */
+  color: #333; /* Cor do texto padrão */
+  margin: 0;
+  padding: 0;
+}
+
+/* Cabeçalho e Rodapé */
+header, footer {
+  background-color: #002f6c; /* Azul escuro da Nexcore */
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
+
+/* Estilo da seção principal */
+#main-content {
+  padding: 20px;
+  max-width: 1000px;
+  margin: 0 auto;
+  background-color: #ffffff;
+  border: 1px solid #d1d1d1; /* Bordas sutis */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#main-content h1 {
+  color: #002f6c; /* Azul escuro para o título principal */
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+#main-content h2 {
+  color: #4b9cd3; /* Azul claro para subtítulos */
+  font-size: 1.5em;
+  margin-bottom: 20px;
+}
+
+/* Estilos para as abas */
+.tabs {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  border-bottom: 2px solid #4b9cd3; /* Azul claro para destaque */
+}
+
+.tabs li {
+  margin-right: 10px;
+}
+
+.tabs a {
+  text-decoration: none;
+  padding: 10px 20px;
+  color: #002f6c;
+  border-radius: 5px 5px 0 0;
+}
+
+.tabs a.selected {
+  background-color: #4b9cd3;
+  color: #fff;
+  font-weight: bold;
+}
+
+/* Listas de conteúdo */
+.tutorial-list {
+  display: none;
+  list-style: none;
+  padding: 0;
+  margin-top: 20px;
+}
+
+.tutorial-list.active {
+  display: block;
+}
+
+.tutorial-list .image-right {
+  padding: 15px;
+  background-color: #f1f7fb; /* Fundo claro para contrastar */
+  border-left: 5px solid #4b9cd3; /* Azul claro para destaque lateral */
+  margin-bottom: 10px;
+}
+
+.tutorial-list h4 {
+  color: #002f6c;
+  font-size: 1.2em;
+  margin-bottom: 5px;
+}
+
+.tutorial-list p {
+  color: #555;
+}
 
