@@ -2,7 +2,7 @@
 
 <!-- Main Content Section -->
 <section id="main-content" class="tutorial">
-  <h1>Main Title</h1>
+  <h1>Nex Wiki</h1>
   <h2>Your content will go here.</h2>
 
   <!-- Placeholder for future content -->
