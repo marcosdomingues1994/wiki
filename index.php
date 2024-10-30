@@ -7,8 +7,8 @@
 
   <!-- Placeholder for future content -->
   <ul class="tabs">
-    <li><a href="#option-1" class="selected">Option 1</a></li>
-    <li><a href="#option-2">Option 2</a></li>
+    <li><a href="#option-1" class="selected">Agentes</a></li>
+    <li><a href="#option-2">Supervisores</a></li>
   </ul>
 
   <ul id="option-1" class="tutorial-list wrapper active">
