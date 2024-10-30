@@ -11,5 +11,5 @@
   <body class="home">
     <!-- Logo and Navigation -->
     <header>
-      <a href="/"><img src="/images/logo.svg" alt="Logo" class="logo" /></a>
+      <a href="/"><img src="C:\Users\marcos.domingues\Pictures\upload_img_37190391_10_30_2024_07_30_47_273760_8631919076389510948" alt="Logo" class="logo" /></a>
     </header>
